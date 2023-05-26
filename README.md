@@ -1,0 +1,1 @@
+# loja-integrada2.0
