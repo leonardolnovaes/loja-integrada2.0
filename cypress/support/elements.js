@@ -14,12 +14,15 @@ export const ELEMENTS = {
     minusIconCart: '.icon-minus',
     plusIconCart: '.icon-plus',
     inputQuantityCart: '.input-mini',
+    refreshQuantityCart: '.atualizar-quantidade', 
     subTotalProductCart: '.preco-produto > .preco-promocional',
     removeProductCart: '.excluir',
     subTotalCart: '.subtotal > .titulo',
     totalCart: '.total > .titulo',
     radioInputDeliveryType: '.radio > input',
     shippingPrice: '.radio > .cor-principal',
+    textEmptyStateCart: 'h1',
+    buttonEmptyStateCart: '.caixa-destaque > .botao',
 
     //Cupom
     inputCoupon: '#usarCupom',
@@ -27,5 +30,7 @@ export const ELEMENTS = {
     tagCouponName: '.cupom-codigo',
     couponDiscountValue: '#cupom_desconto',
     amountTotal: '.total > .titulo',
-    freeShippingInformations: '.cupom-valor > .cor-secundaria'
+    freeShippingInformations: '.cupom-valor > .cor-secundaria',
+    messageError: '.alert-danger',
+    removeCoupon: '.text-error',
 }

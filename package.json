@@ -1,5 +1,9 @@
 {
   "dependencies": {
     "cypress": "^12.13.0"
+  },
+  "scripts": {
+    "cy-open": "npx cypress open --e2e --config specPattern=cypress/e2e --browser chrome --port 8090",
+    "cy-run": "npx cypress run --e2e --config specPattern=cypress/e2e --browser chrome --port 8080"
   }
 }

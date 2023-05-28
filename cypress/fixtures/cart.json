@@ -1,0 +1,19 @@
+{
+    "shippingPrice": 21,
+    "product": [
+        {
+            "code": 118475035,
+            "photo": "https://cdn.awsli.com.br/production/static/img/produto-sem-imagem.gif",
+            "name": "[CATEGORIA] Produto com categoria - 1 Nível",
+            "sku": "CATEGORIA2",
+            "stock": "Disponível",
+            "price": 80
+        }
+    ],
+    "zipCode": "08770-180",
+    "freeShippingCoupon": "FRETEGRATIS",
+    "percentageCoupon": "10OFF",
+    "fixedPriceCoupon": "30REAIS",
+    "expiredCoupon": "CUPOMVENCIDO",
+    "invalidCoupon": "CUPOMINVALIDO"
+}
